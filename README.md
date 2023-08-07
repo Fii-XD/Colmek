@@ -23,4 +23,3 @@ cd Colmek
 
 python Meki.py
 
-Screenshot_2023-08-07-20-10-28-007_com.termux.jpg
