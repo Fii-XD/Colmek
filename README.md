@@ -21,5 +21,5 @@ git clone https://github.com/Fii-XD/Colmek
 
 cd Colmek
 
-python Meki.py
+python run7_enc.py
 
