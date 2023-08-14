@@ -21,5 +21,5 @@ git clone https://github.com/Fii-XD/Colmek
 
 cd Colmek
 
-python run7_enc.py
+python runnn8.py
 
