@@ -27,6 +27,6 @@ python run7.py
 
 cd Colmek
 
-git.pull
+git pull
 
 python run7.py
