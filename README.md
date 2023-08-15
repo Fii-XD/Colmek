@@ -23,7 +23,8 @@ cd Colmek
 
 python run7.py
 
-#YANG SUDAH INSTALL
+# YANG SUDAH INSTALL
+
 cd Colmek
 
 git.pull
