@@ -21,5 +21,11 @@ git clone https://github.com/Fii-XD/Colmek
 
 cd Colmek
 
-python runnn8.py
+python run7.py
 
+# Buat Yang udah install
+cd Colmek
+
+git pull
+
+python run7.py
