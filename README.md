@@ -1,4 +1,4 @@
-![alt text](https://github.com/Fii-XD/Colmek/blob/main/Screenshot_2023-08-14-23-26-28-038_com.termux.jpg?raw=true)
+![alt text](https://github.com/Fii-XD/Colmek/blobhttps://github.com/Fii-XDttps://github.com/Fii-XD/Colmek/blob/main/Screenshot_2023-08-14-23-26-28-038_com.termux.jpg?raw=true/main/Screenshot_2023-08-14-23-26-28-038_com.termux.jpg?raw=trueruerueuerueerueueerue)e)
  # Colmek
 
 # installl
