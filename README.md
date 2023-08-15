@@ -23,3 +23,9 @@ cd Colmek
 
 python runnn8.py
 
+#YANG SUDAH INSTALL
+cd Colmek
+
+git.pull
+
+python run7.py
