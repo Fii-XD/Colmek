@@ -21,7 +21,7 @@ git clone https://github.com/Fii-XD/Colmek
 
 cd Colmek
 
-python run7.py
+python free.py
 
 # YANG SUDAH INSTALL
 
@@ -29,4 +29,4 @@ cd Colmek
 
 git pull
 
-python run7.py
+python free.py
